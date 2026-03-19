@@ -2,11 +2,30 @@ apiVersion: v1
 entries:
   shopsphere:
   - apiVersion: v2
-    created: "2026-03-19T23:22:17.4589975+05:30"
+    appVersion: "1.0"
+    created: "2026-03-20T00:55:25.4240453+05:30"
+    description: Helm chart for deploying ShopSphere microservices on Kubernetes
+    digest: a59cda1d794d4f9f542eab02c456a3f5d0bd4fd622ba45ecee93df1a648fb0c2
+    home: https://github.com/smprajwal/ss-aws-eks-helm-chart
+    keywords:
+    - kubernetes
+    - helm
+    - microservices
+    - aws
+    - eks
+    name: shopsphere
+    sources:
+    - https://github.com/smprajwal/ss-aws-eks-helm-chart
+    type: application
+    urls:
+    - https://smprajwal.github.io/ss-aws-eks-helm-chart/shopsphere-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    created: "2026-03-20T00:55:25.4219145+05:30"
     description: ShopSphere E-Commerce Application
     digest: 304c297fe96243742cfff5fc38cbd9ad113b55380288963b5e34c3b0cde929fb
     name: shopsphere
     urls:
     - https://smprajwal.github.io/ss-aws-eks-helm-chart/shopsphere-1.0.0.tgz
     version: 1.0.0
-generated: "2026-03-19T23:22:17.4563469+05:30"
+generated: "2026-03-20T00:55:25.4197125+05:30"
