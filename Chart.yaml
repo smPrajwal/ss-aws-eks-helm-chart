@@ -1,4 +1,10 @@
 apiVersion: v2
 name: shopsphere
 version: 1.0.0
-description: ShopSphere E-Commerce Application
+description: Helm chart for deploying ShopSphere microservices on Kubernetes
+type: application
+appVersion: "1.0"
+
+home: https://github.com/smprajwal/ss-aws-eks-helm-chart
+sources:
+  - https://github.com/smprajwal/ss-aws-eks-helm-chart
