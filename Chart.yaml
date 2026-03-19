@@ -8,3 +8,10 @@ appVersion: "1.0"
 home: https://github.com/smprajwal/ss-aws-eks-helm-chart
 sources:
   - https://github.com/smprajwal/ss-aws-eks-helm-chart
+
+keywords:
+  - kubernetes
+  - helm
+  - microservices
+  - aws
+  - eks
